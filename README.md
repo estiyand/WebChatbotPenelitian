@@ -1,2 +1,2 @@
-Web Chatbot Penelitian 
+Web Chatbot Penelitian <br>
 Aplikasi ini dibangun dengan menggunakan arsitektur sederhana di mana Google Scholar (melalui library scholarly) bertindak sebagai sumber data pencarian. Gemini API bertindak sebagai otak LLM yang mensintesis jawaban dengan temperature=0 (agar outputnya sangat faktual dan deterministik). Streamlit sebagai antarmuka penggunanya. Ngrok akan digunakan untuk mengekspos server lokal/Colab ke internet.
